@@ -1,0 +1,14 @@
+C:\NETCORE\freshapi\bin\Debug\netcoreapp2.2\freshapi.deps.json
+C:\NETCORE\freshapi\bin\Debug\netcoreapp2.2\freshapi.runtimeconfig.json
+C:\NETCORE\freshapi\bin\Debug\netcoreapp2.2\freshapi.runtimeconfig.dev.json
+C:\NETCORE\freshapi\bin\Debug\netcoreapp2.2\freshapi.dll
+C:\NETCORE\freshapi\bin\Debug\netcoreapp2.2\freshapi.pdb
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.csprojAssemblyReference.cache
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.csproj.CoreCompileInputs.cache
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.RazorAssemblyInfo.cache
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.RazorAssemblyInfo.cs
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.AssemblyInfoInputs.cache
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.AssemblyInfo.cs
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.RazorTargetAssemblyInfo.cache
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.dll
+C:\NETCORE\freshapi\obj\Debug\netcoreapp2.2\freshapi.pdb
